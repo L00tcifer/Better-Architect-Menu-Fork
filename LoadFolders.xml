@@ -181,6 +181,7 @@
     <li IfModActive="tug.satyrfaun.expanded">Mods and Shit/Roo SFE</li>
     <li IfModActive="Poncho.AutomaticHydroponics">Mods and Shit/Automatic Hydroponics</li>
     <li IfModActive="BriannBanned.BriannsMissileFramework">Mods and Shit/Brianns Missiles</li>
+    <li IfModActive="divineDerivative.tilledsoil">Mods and Shit/Configurable Tilled Soil</li>
             <!-- (Add new mods here ^^^^^) -->
   </v1.6>
 </loadFolders>
