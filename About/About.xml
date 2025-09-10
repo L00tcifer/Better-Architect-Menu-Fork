@@ -246,6 +246,7 @@
         <li>as1aw.morehunterdrones</li>
         <li>tug.satyrfaun.expanded</li>
         <li>Poncho.AutomaticHydroponics</li>
+        <li>BriannBanned.BriannsMissileFramework</li>
         <!-- (Add new mods here ^^^^^) -->
     </loadAfter>  
 </ModMetaData>
